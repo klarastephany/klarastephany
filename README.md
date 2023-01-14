@@ -18,11 +18,7 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  <div align="right">
-  <img src="https://user-images.githubusercontent.com/122646528/212444351-f6338618-a5f1-4472-9a68-2cd55876e523.gif" height="150" style="border-radius:50px" />
- </div>
-
- <div align="right">
-  <img src="https://user-images.githubusercontent.com/122646528/212441297-ce9e9b5f-71e8-4c4b-99dc-9f98c10cfd6d.gif"
+  <img src="https://user-images.githubusercontent.com/122646528/212444459-1ac48365-10b0-4d15-b686-ab00867ca591.gif" height="150" style="border-radius:50px" />
  </div>
   
 </div>
